@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-react-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint \"src/**/*\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
+}
