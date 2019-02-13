@@ -11,7 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.13.0",
-    "eslint-plugin-react": "^7.12.4"
+    "eslint-plugin-react": "^7.12.4",
+    "acorn": "^6.0.2",
+    "acorn-jsx": "^5.0.0",
+    "espree": "^4.1.0"
   },
   "dependencies": {
     "pug": "^2.0.3"
